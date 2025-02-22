@@ -75,7 +75,7 @@ With OpenCore Legacy Patcher v0.6.0, basic support has been implemented via Root
 * MacBook7,1 and older
 * MacBookAir3,1 and older
 * MacBookPro7,1 and older
-  * MacBookPro6,x is exempt
+  * MacBookPro6,x is exempt  (WHAT DOES THIS MEAN? EXEMPT?  I HAVE a 17" 6,1)
 * MacPro5,1 and older
 
 :::
